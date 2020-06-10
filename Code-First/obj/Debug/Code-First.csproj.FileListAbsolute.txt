@@ -1,0 +1,17 @@
+C:\Data\EF\Code-First\bin\Debug\Code-First.exe.config
+C:\Data\EF\Code-First\bin\Debug\Code-First.exe
+C:\Data\EF\Code-First\bin\Debug\Code-First.pdb
+C:\Data\EF\Code-First\bin\Debug\EntityFramework.dll
+C:\Data\EF\Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data\EF\Code-First\bin\Debug\EntityFramework.xml
+C:\Data\EF\Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data\EF\Code-First\obj\Debug\Code-First.csprojAssemblyReference.cache
+C:\Data\EF\Code-First\obj\Debug\Code-First.csproj.CoreCompileInputs.cache
+C:\Data\EF\Code-First\obj\Debug\Code-First.csproj.CopyComplete
+C:\Data\EF\Code-First\obj\Debug\Code-First.exe
+C:\Data\EF\Code-First\obj\Debug\Code-First.pdb
+C:\Data\EF\Code-First\obj\Debug\Code_First.Migrations.CreatePost.resources
+C:\Data\EF\Code-First\obj\Debug\Code-First.csproj.GenerateResource.cache
+C:\Data\EF\Code-First\obj\Debug\Code_First.Migrations.CreatePost2.resources
+C:\Data\EF\Code-First\obj\Debug\Code_First.Migrations.deletecolumn.resources
+C:\Data\EF\Code-First\obj\Debug\Code_First.Migrations.changetypeofcolumn.resources
