@@ -1,0 +1,12 @@
+C:\Data\EF\Pluto-Database-First\bin\Debug\Pluto-Database-First.exe.config
+C:\Data\EF\Pluto-Database-First\bin\Debug\Pluto-Database-First.exe
+C:\Data\EF\Pluto-Database-First\bin\Debug\Pluto-Database-First.pdb
+C:\Data\EF\Pluto-Database-First\bin\Debug\EntityFramework.dll
+C:\Data\EF\Pluto-Database-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data\EF\Pluto-Database-First\bin\Debug\EntityFramework.xml
+C:\Data\EF\Pluto-Database-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data\EF\Pluto-Database-First\obj\Debug\Pluto-Database-First.csprojAssemblyReference.cache
+C:\Data\EF\Pluto-Database-First\obj\Debug\Pluto-Database-First.csproj.CoreCompileInputs.cache
+C:\Data\EF\Pluto-Database-First\obj\Debug\Pluto-Database-First.csproj.CopyComplete
+C:\Data\EF\Pluto-Database-First\obj\Debug\Pluto-Database-First.exe
+C:\Data\EF\Pluto-Database-First\obj\Debug\Pluto-Database-First.pdb
