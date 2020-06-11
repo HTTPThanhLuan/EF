@@ -1,0 +1,12 @@
+C:\Data\EF\VidzyMovieRentalStore\bin\Debug\VidzyMovieRentalStore.exe.config
+C:\Data\EF\VidzyMovieRentalStore\bin\Debug\VidzyMovieRentalStore.exe
+C:\Data\EF\VidzyMovieRentalStore\bin\Debug\VidzyMovieRentalStore.pdb
+C:\Data\EF\VidzyMovieRentalStore\bin\Debug\EntityFramework.dll
+C:\Data\EF\VidzyMovieRentalStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data\EF\VidzyMovieRentalStore\bin\Debug\EntityFramework.xml
+C:\Data\EF\VidzyMovieRentalStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data\EF\VidzyMovieRentalStore\obj\Debug\VidzyMovieRentalStore.csprojAssemblyReference.cache
+C:\Data\EF\VidzyMovieRentalStore\obj\Debug\VidzyMovieRentalStore.csproj.CoreCompileInputs.cache
+C:\Data\EF\VidzyMovieRentalStore\obj\Debug\VidzyMovieRentalStore.csproj.CopyComplete
+C:\Data\EF\VidzyMovieRentalStore\obj\Debug\VidzyMovieRentalStore.exe
+C:\Data\EF\VidzyMovieRentalStore\obj\Debug\VidzyMovieRentalStore.pdb
